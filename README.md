@@ -2,3 +2,5 @@
 ## Date : 01/11/2025
 
 # Part - 1
+
+## 3. Data Types , variable and input

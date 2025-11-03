@@ -5,14 +5,12 @@ public class Main {
 
         System.out.println("Hello java");
 
-        System.out.println(" " +
-                "echo \"# JavaProgram_02\" >> README.md\n" +
+        System.out.println(
                 "git init\n" +
-                "git add README.md\n" +
-                "git commit -m \"first commit\"\n" +
-                "git branch -M main\n" +
+                "git add .\n" +
+                "git commit -m " + "commit sms\n" +
                 "git remote add origin https://github.com/Torab-spec/JavaProgram_02.git\n" +
-                "git push -u origin main");
+                "git push -u origin main" );
 
 
 
