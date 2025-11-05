@@ -11,6 +11,9 @@ public class Main {
                 "git commit -m " + "commit sms\n" +
                 "git remote add origin https://github.com/Torab-spec/JavaProgram_02.git\n" +
                 "git push -u origin main" );
+        System.out.println();
+
+
 
 
 
