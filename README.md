@@ -19,9 +19,16 @@
 
 ### 3.6 : Escape Sequences
 
-## ii : Challenge02
+## 2: Challenge02
 
 ### 3.7 : User Input --> Lec02
 
-## iii : Challenge03
+## 5 : Challenge05 
+## 6 : Challenge06
+
+### 3.8 : Type Conversion and Casting --> Lec03
+
+## 4 : Operators , If-Else and Number System 
+
+### 4.1 : Assignment Operator
 
