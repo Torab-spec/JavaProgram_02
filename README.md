@@ -1,10 +1,25 @@
+<hr>
+
 # <ins> JAVA BY PRASANT SIR </ins>
+
+<hr>
+
+<hr>
 
 ## Date : 01/11/2025
 
+<hr>
+
 # Part - 1
 
-## 1 : CHAPTER01 --> Introduction to Java
+<hr>
+
+<hr>
+
+## 1 : CHAPTER01 --> INTRODUCTION TO JAVA
+
+<hr>
+
 
 ### 1.1 : Ch01Lec01 --> Why you must learn Java
 
@@ -24,7 +39,11 @@
 
 ### 1.9 : Ch01Lec09 --> Object Oriented Programing
 
-## 2 : CHAPTER01 --> Java Basics
+<hr>
+
+## 2 : CHAPTER02 --> JAVA BASICS
+
+<hr>
 
 ### 2.1 : Ch02Lec01 --> Installing JDK
 
@@ -52,7 +71,11 @@
 
 ### *3 : Challenge03*
 
-## 3 : CHAPTER03 --> Data Types , variable and input
+<hr>
+
+## 3 : CHAPTER03 --> DATA TYPES , VARIABLES AND INPUT
+
+<hr>
 
 ### 3.1 : Ch03Lec01 -->What are Variables
 
@@ -76,15 +99,19 @@
 
 ### *6 : Challenge06*
 
-### 3.8 : Ch03Lec08 --> Type Conversion and Casting 
+### 3.8 : Ch03Lec08 --> Type Conversion and Casting
 
-## 4 : CHAPTER04 --> Operators , If-Else and Number System
+<hr>
 
-### 4.1 : Ch04Lec01 --> Assignment Operator 
+## 4 : CHAPTER04 --> OPERATORS , IF-ELSE AND  NUMBER SYSTEM
+
+<hr>
+
+### 4.1 : Ch04Lec01 --> Assignment Operator
 
 ### *7 : Challenge07*
 
-### 4.2 : Ch04Lec02 --> Arithmetic operator  
+### 4.2 : Ch04Lec02 --> Arithmetic operator
 
 ### 4.3 : Ch04Lec03 --> Order of operation  
 
