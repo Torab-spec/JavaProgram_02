@@ -1,4 +1,4 @@
-public class Lec03 {
+public class Ch03Lec08 {
     public static void main(String[] args) {
         // Type casting
 

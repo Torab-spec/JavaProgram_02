@@ -1,4 +1,4 @@
-public class Lec01 {
+public class Ch03Lec02 {
     public static void main(String[] args) {
         System.out.println("Hello java");
 
