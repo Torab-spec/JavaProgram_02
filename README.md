@@ -20,7 +20,6 @@
 
 <hr>
 
-
 ### 1.1 : Ch01Lec01 --> Why you must learn Java
 
 ### 1.2 : Ch01Lec02 --> What is Programing Language
@@ -111,9 +110,32 @@
 
 ### *7 : Challenge07*
 
-### 4.2 : Ch04Lec02 --> Arithmetic operator
+### 4.2 : Ch04Lec02 --> Arithmetic Operator
 
-### 4.3 : Ch04Lec03 --> Order of operation  
+### 4.3 : Ch04Lec03 --> Order of Operation
+
+### 4.4 : Ch04Lec04 --> Shorthand Operators
+
+### 4.5 : Ch04Lec05 --> Unary Operators
+
+### *8 : Challenge08 --> Playing with Arithmetic Operators*
+
+### *9 : Challenge09 --> Float Multiplications*
+
+### *10 : Challenge10 --> Perimeter of a rectangle.*
+
+### *11 : Challenge11 --> Area of a Triangle.*
+
+### *12 : Challenge12 --> calculate simple interest.*
+
+### *13 : Challenge13 -->  calculate Compound interest.*
+
+### *14 : Challenge14 -->  convert Fahrenheit to Celsius.*
+
+### 4.6 : Ch04Lec06 --> If - Else | p:81
+
+
+
 
 
 
