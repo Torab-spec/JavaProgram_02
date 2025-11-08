@@ -7,14 +7,13 @@ public class Main {
 
         System.out.println(
                 "git init\n" +
-                "git add .\n" +
-                "git commit -m " + "commit sms\n" +
-                "git remote add origin https://github.com/Torab-spec/JavaProgram_02.git\n" +
-                "git push -u origin main" );
+                        "git add .\n" +
+                        "git commit -m " + "commit sms\n" +
+                        "git remote add origin https://github.com/Torab-spec/JavaProgram_02.git\n" +
+                        "git push -u origin main");
         System.out.println();
 
-
-
+//        https://github.com/Complete-Coding/Java_Complete_Youtube/tree/main
 
 
     }
