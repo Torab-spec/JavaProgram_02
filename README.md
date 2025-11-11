@@ -138,9 +138,49 @@
 
 ### 4.8 : Ch04Lec08 --> Logical Operators | p:83
 
-### 15 : *Challenge15 --> Determining is the number positive , negative, or zero
+### 15 : *Challenge15 --> Determining is the number positive , negative, or zero* p:84
 
-###
+### 16 : *Challenge16 --> Determining is the number odd or even*
+
+### 17 : *Challenge17 --> That determines the greatest of the three number*
+
+### 18 : *Challenge18 --> Check leap year*
+
+### 19 : *Challenge19 --> Calculates grades based on marks*
+
+### 20 : *Challenge20--> Categorize a person into different age groups*
+
+### 4.9 : Ch04Lec09 --> Logical Operators | p:85
+
+### 4.10 : Ch04Lec10 --> Intro to number system | p:86
+
+### 4.11 : Ch04Lec011 --> Intro to Bitwise operator | p:90
+
+### 21 : *Challenge21 -->  Shows bitwise AND of two numbers* | p:91
+
+### 22 : *Challenge22 -->  Shows bitwise OR of two numbers* | p:91
+
+### 23 : *Challenge23 -->  Shows bitwise XOR of two numbers* | p:91
+
+### 24 : *Challenge24 -->  Shows bitwise compliment of a numbers* | p:91
+
+### 25 : *Challenge25 -->  Use of left side operator* | p:91
+
+### 26 : *Challenge26 -->  Use of right side operator* | p:91
+
+### 27 : *Challenge27 -->  Checking the is Odd or Even using Bitwise operator* | p:91
+
+<hr>
+
+## 5 : CHAPTER05 --> WHILE LOOPS , METHODS , ARRAYS | p:97
+
+<hr>
+
+### 5.1 : Ch05Lec01 --> Java Comments | p:97
+
+### 5.2 : Ch05Lec02 --> What is Loop | p:98
+
+### 5.3 : Ch05Lec03 --> What is Loop | p:100    
 
 ###
 
