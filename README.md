@@ -64,11 +64,11 @@
 
 ### 2.10 : Ch02Lec10 --> Creating first project
 
-### *1 : Challenge01*
+### *1 : Challenge01 --> Good morning*
 
-### *2 : Challenge04*
+### *2 : Challenge04 --> Saying Subscribe*
 
-### *3 : Challenge03*
+### *3 : Challenge03 --> patterns*
 
 <hr>
 
@@ -180,7 +180,35 @@
 
 ### 5.2 : Ch05Lec02 --> What is Loop | p:98
 
-### 5.3 : Ch05Lec03 --> What is Loop | p:100    
+### 5.3 : Ch05Lec03 --> What are methods/functions | p:100
+
+### 5.4 : Ch05Lec04 --> Return Statement | p:102
+
+### 5.5 : Ch05Lec05 --> Arguments v/s Parameters | p:103
+
+### 28 : *Challenge28 --> Multiplication table* | p:104
+
+### 29 : *Challenge29 --> Sum of all odd numbers 1 to n* | p:104
+
+### 30 : *Challenge30 --> Calculating factorial of given number* | p:104
+
+### 31 : *Challenge31 -->  * | p:104
+
+### 32 : *Challenge32 -->  * | p:104
+
+### 33 : *Challenge33 -->  * | p:104
+
+### 34 : *Challenge34 -->  * | p:104
+
+### 35 : *Challenge35 -->  * | p:104
+
+### 36 : *Challenge36 -->  * | p:104
+
+### 37 : *Challenge37 -->  * | p:104
+
+### 38 : *Challenge38 -->  * | p:104
+
+### 39 : *Challenge39 -->  * | p:104
 
 ###
 
