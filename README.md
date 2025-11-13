@@ -192,13 +192,13 @@
 
 ### 30 : *Challenge30 --> Calculating factorial of given number* | p:104
 
-### 31 : *Challenge31 -->  * | p:104
+### 31 : *Challenge31 --> Sum or Digits of an integers* | p:104
 
-### 32 : *Challenge32 -->  * | p:104
+### 32 : *Challenge32 -->  find the Least Common Multiple (LCM) of two numbers.* | p:104
 
-### 33 : *Challenge33 -->  * | p:104
+### 33 : *Challenge33 -->   Greatest common divisor* | p:104 | t - 9:39:00
 
-### 34 : *Challenge34 -->  * | p:104
+### 34 : *Challenge34 -->  Checking the number is prime or not* | p:104 | t- 9:50:00
 
 ### 35 : *Challenge35 -->  * | p:104
 
