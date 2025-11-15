@@ -6,20 +6,25 @@ public class Challenge34 {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter your  number : ");
         int number = input.nextInt();
-        prime(number);
+        boolean checkPrime = prime(number);
+
+        if (checkPrime){
+            System.out.println( number + " number is prime");
+        }else {
+            System.out.println( number + " number is not prime");
+        }
+
     }
 
-    public static void prime(int num) {
+    public static boolean prime(int num) {
         int i = 2;
         while (i < num) {
             if (num % i == 0) {
-                System.out.println("This is not prime number");
-                break;
-            } else {
-                System.out.println("This is  prime number");
+                return false;
             }
             i++;
         }
+        return true;
 
     }
 }

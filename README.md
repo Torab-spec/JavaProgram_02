@@ -200,15 +200,17 @@
 
 ### 34 : *Challenge34 -->  Checking the number is prime or not* | p:104 | t- 9:50:00
 
-### 35 : *Challenge35 -->  * | p:104
+### 35 : *Challenge35 --> Reverse the digits of a numbers* | p:104 | t - 9:58:00
 
-### 36 : *Challenge36 -->  * | p:104
+### 36 : *Challenge36 --> Fibonacci series* | p:104 | t - 10.04.00
 
-### 37 : *Challenge37 -->  * | p:104
+### 37 : *Challenge37 --> Check the number is Armstrong or not* | p:104 | t - 10.15.00
 
-### 38 : *Challenge38 -->  * | p:104
+### 38 : *Challenge38 --> Check palindrome* | p:104 | t - 10.35.00
 
-### 39 : *Challenge39 -->  * | p:104
+### 39 : *Challenge39 --> Patterns* | p:104 | t 10.44.00
+
+### 5.6 : Ch05Lec06 --> What is an Array | p:105 
 
 ###
 
