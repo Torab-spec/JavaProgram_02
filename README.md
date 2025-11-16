@@ -212,6 +212,8 @@
 
 ### 5.6 : Ch05Lec06 --> What is an Array | p:105 
 
+### 5.7 : Ch05Lec07 --> 2D Array | p:109  
+
 ###
 
 ###
