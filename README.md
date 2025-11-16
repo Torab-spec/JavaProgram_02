@@ -210,9 +210,19 @@
 
 ### 39 : *Challenge39 --> Patterns* | p:104 | t 10.44.00
 
-### 5.6 : Ch05Lec06 --> What is an Array | p:105 
+### 5.6 : Ch05Lec06 --> What is an Array | p:105
 
-### 5.7 : Ch05Lec07 --> 2D Array | p:109  
+### 5.7 : Ch05Lec07 --> 2D Array | p:109
+
+## Date : 16/11/2025
+
+<hr>
+
+# Part - 2
+
+<hr>
+
+### 40 : *Challenge40 --> Find sum and average of an array element | p:112 | t 10.44.0*
 
 ###
 
