@@ -222,7 +222,11 @@
 
 <hr>
 
-### 40 : *Challenge40 --> Find sum and average of an array element | p:112 | t 10.44.0*
+### 40 : *Challenge40 --> Find sum and average of an array element | p:112 | t - 00.00.00*
+### 41 : *Challenge41 --> Find sum and average of an array element | p:112 | t - 00.14.00*
+### 41 : *Challenge41 --> Find sum and average of an array element | p:112 | t - 00.14.00*
+
+### 42 : *Challenge42 --> Find Max and Min element in an Array | p:112 | t - 00.21.00*
 
 ###
 
