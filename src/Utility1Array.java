@@ -21,14 +21,14 @@ public class Utility1Array {
 
     // Iteration of an array
     public static void printArray(int[] arr) {
-        System.out.print("Your array is : ");
+//        System.out.print("Your array is : ");
         int i = 0;
         while (i < arr.length) {
             System.out.print(arr[i] + " ");
             i++;
         }
         System.out.println(" ");
-        System.out.print("Your array length is : " + (arr.length - 1) + ", and size is : " + arr.length);
+//        System.out.println("Your array length is : " + (arr.length - 1) + ", and size is : " + arr.length);
     }
 
 }

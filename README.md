@@ -64,12 +64,6 @@
 
 ### 2.10 : Ch02Lec10 --> Creating first project
 
-### *1 : Challenge01 --> Good morning*
-
-### *2 : Challenge04 --> Saying Subscribe*
-
-### *3 : Challenge03 --> patterns*
-
 <hr>
 
 ## 3 : CHAPTER03 --> DATA TYPES , VARIABLES AND INPUT
@@ -90,13 +84,7 @@
 
 ### 3.6 : Ch03Lec06 --> Escape Sequences
 
-### *4: Challenge04*
-
 ### 3.7 : Ch03Lec07 --> User Input
-
-### *5 : Challenge05*
-
-### *6 : Challenge06*
 
 ### 3.8 : Ch03Lec08 --> Type Conversion and Casting
 
@@ -108,8 +96,6 @@
 
 ### 4.1 : Ch04Lec01 --> Assignment Operator
 
-### *7 : Challenge07*
-
 ### 4.2 : Ch04Lec02 --> Arithmetic Operator
 
 ### 4.3 : Ch04Lec03 --> Order of Operation
@@ -118,57 +104,17 @@
 
 ### 4.5 : Ch04Lec05 --> Unary Operators
 
-### *8 : Challenge08 --> Playing with Arithmetic Operators*
-
-### *9 : Challenge09 --> Float Multiplications*
-
-### *10 : Challenge10 --> Perimeter of a rectangle.*
-
-### *11 : Challenge11 --> Area of a Triangle.*
-
-### *12 : Challenge12 --> calculate simple interest.*
-
-### *13 : Challenge13 -->  calculate Compound interest.*
-
-### *14 : Challenge14 -->  convert Fahrenheit to Celsius.*
-
 ### 4.6 : Ch04Lec06 --> If - Else | p:81
 
 ### 4.7 : Ch04Lec07 --> Relational Operators | p:82
 
 ### 4.8 : Ch04Lec08 --> Logical Operators | p:83
 
-### 15 : *Challenge15 --> Determining is the number positive , negative, or zero* p:84
-
-### 16 : *Challenge16 --> Determining is the number odd or even*
-
-### 17 : *Challenge17 --> That determines the greatest of the three number*
-
-### 18 : *Challenge18 --> Check leap year*
-
-### 19 : *Challenge19 --> Calculates grades based on marks*
-
-### 20 : *Challenge20--> Categorize a person into different age groups*
-
 ### 4.9 : Ch04Lec09 --> Logical Operators | p:85
 
 ### 4.10 : Ch04Lec10 --> Intro to number system | p:86
 
 ### 4.11 : Ch04Lec011 --> Intro to Bitwise operator | p:90
-
-### 21 : *Challenge21 -->  Shows bitwise AND of two numbers* | p:91
-
-### 22 : *Challenge22 -->  Shows bitwise OR of two numbers* | p:91
-
-### 23 : *Challenge23 -->  Shows bitwise XOR of two numbers* | p:91
-
-### 24 : *Challenge24 -->  Shows bitwise compliment of a numbers* | p:91
-
-### 25 : *Challenge25 -->  Use of left side operator* | p:91
-
-### 26 : *Challenge26 -->  Use of right side operator* | p:91
-
-### 27 : *Challenge27 -->  Checking the is Odd or Even using Bitwise operator* | p:91
 
 <hr>
 
@@ -186,30 +132,6 @@
 
 ### 5.5 : Ch05Lec05 --> Arguments v/s Parameters | p:103
 
-### 28 : *Challenge28 --> Multiplication table* | p:104
-
-### 29 : *Challenge29 --> Sum of all odd numbers 1 to n* | p:104
-
-### 30 : *Challenge30 --> Calculating factorial of given number* | p:104
-
-### 31 : *Challenge31 --> Sum or Digits of an integers* | p:104
-
-### 32 : *Challenge32 -->  find the Least Common Multiple (LCM) of two numbers.* | p:104
-
-### 33 : *Challenge33 -->   Greatest common divisor* | p:104 | t - 9:39:00
-
-### 34 : *Challenge34 -->  Checking the number is prime or not* | p:104 | t- 9:50:00
-
-### 35 : *Challenge35 --> Reverse the digits of a numbers* | p:104 | t - 9:58:00
-
-### 36 : *Challenge36 --> Fibonacci series* | p:104 | t - 10.04.00
-
-### 37 : *Challenge37 --> Check the number is Armstrong or not* | p:104 | t - 10.15.00
-
-### 38 : *Challenge38 --> Check palindrome* | p:104 | t - 10.35.00
-
-### 39 : *Challenge39 --> Patterns* | p:104 | t 10.44.00
-
 ### 5.6 : Ch05Lec06 --> What is an Array | p:105
 
 ### 5.7 : Ch05Lec07 --> 2D Array | p:109
@@ -222,183 +144,141 @@
 
 <hr>
 
-### 40 : *Challenge40 --> Find sum and average of an array element | p:112 | t - 00.00.00*
+#
 
-### 41 : *Challenge41 --> Find sum and average of an array element | p:112 | t - 00.14.00*
+<hr>
 
-### 41 : *Challenge41 --> Find sum and average of an array element | p:112 | t - 00.14.00*
+# *CHALLENGES*
 
-### 42 : *Challenge42 --> Find Max and Min element in an Array | p:112 | t - 00.21.00*
+<hr>
 
-### 43 : *Challenge43 --> Checking the given array sorted or not | p:112 | t - 00.21.00*
+## 2 : CHAPTER02 --> JAVA BASICS CHALLENGES
 
-### 44 : *Challenge44 --> Deleting a specific element and return new array | p:112 | t - 00.21.00*
+<hr>
 
-###
+### *2.1 : Challenge01 --> Good morning*
 
-###
+### *2.2 : Challenge04 --> Saying Subscribe*
 
-###
+### *2.3 : Challenge03 --> patterns*
 
-###
+<hr>
 
-###
+<hr>
 
-###
+## 3 : CHAPTER03 --> DATA TYPES , VARIABLES AND INPUT CHALLENGES
 
-###
+<hr>
 
-###
+### *3.4 : Challenge04 --> *
 
-###
+### *3.5 : Challenge05*
 
-###
+### *3.6 : Challenge06*
 
-###
+<hr>
+<hr>
 
-###
+## 4 : CHAPTER04 --> OPERATORS , IF-ELSE AND  NUMBER SYSTEM CHALLENGES
 
-###
+<hr>
 
-###
+### *4.7 : Challenge07*
 
-###
+### *4.8 : Challenge08 --> Playing with Arithmetic Operators*
 
-###
+### *4.9 : Challenge09 --> Float Multiplications*
 
-###
+### *4.10 : Challenge10 --> Perimeter of a rectangle.*
 
-###
+### *4.11 : Challenge11 --> Area of a Triangle.*
 
-###
+### *4.12 : Challenge12 --> calculate simple interest.*
 
-###
+### *4.13 : Challenge13 -->  calculate Compound interest.*
 
-###
+### *4.14 : Challenge14 -->  convert Fahrenheit to Celsius.*
 
-###
+### *4.15 : Challenge15 --> Determining is the number positive , negative, or zero p:84*
 
-###
+### *4.16 : Challenge16 --> Determining is the number odd or even*
 
-###
+### *4.17 : Challenge17 --> That determines the greatest of the three number*
 
-###
+### *4.18 : Challenge18 --> Check leap year*
 
-###
+### *4.19 : Challenge19 --> Calculates grades based on marks*
 
-###
+### *4.20 : Challenge20--> Categorize a person into different age groups*
 
-###
+### *4.21 : Challenge21 -->  Shows bitwise AND of two numbers | p:91*
 
-###
+### *4.22 : Challenge22 -->  Shows bitwise OR of two numbers |  p:91*
 
-###
+### *4.23 : Challenge23 -->  Shows bitwise XOR of two numbers| p:91*
 
-###
+### *4.24 : Challenge24 -->  Shows bitwise compliment of a numbers| p:91*
 
-###
+### *4.25 : Challenge25 -->  Use of left side operator| p:91*
 
-###
+### *4.26 : Challenge26 -->  Use of right side operator | p:91*
 
-###
+### *4.27 : Challenge27 -->  Checking the is Odd or Even using Bitwise operator | p:91*
 
-###
+<hr>
 
-###
+<hr>
 
-###
+## 5 : CHAPTER05 --> WHILE LOOPS , METHODS , ARRAYS CHALLENGES | p:104
 
-###
+<hr>
 
-###
+### *5.28 : Challenge28 --> Multiplication table| p:104*
 
-###
+### *5.29 : Challenge29 --> Sum of all odd numbers 1 to n| p:104*
 
-###
+### *5.30 : Challenge30 --> Calculating factorial of given number| p:104*
 
-###
+### *5.31 : Challenge31 --> Sum or Digits of an integers | p:104*
 
-###
+### *5.32 : Challenge32 -->  find the Least Common Multiple (LCM) of two numbers. | p:104*
 
-###
+### *5.33 : Challenge33 -->   Greatest common divisor | p:104 | t - 9:39:00*
 
-###
+### *5.34 : Challenge34 -->  Checking the number is prime or not | p:104 | t- 9:50:00*
 
-###
+### *5.35 : Challenge35 --> Reverse the digits of a numbers | p:104 | t - 9:58:00*
 
-###
+### *5.36 : Challenge36 --> Fibonacci series | p:104 | t - 10.04.00*
 
-###
+### *5.37 : Challenge37 --> Check the number is Armstrong or not | p:104 | t - 10.15.00*
 
-###
+### *5.38 : Challenge38 --> Check palindrome | p:104 | t - 10.35.00*
 
-###
+### *5.39 : Challenge39 --> Patterns | p:104 | t 10.44.00*
 
-###
+<hr>
 
-###
+<hr>
 
-###
+## Part - 2
 
-###
+<hr>
 
-###
+### *5.40 : Challenge40 --> Find sum and average of an array element | p:112 | t - 00.00.00*
 
-###
+### *5.41 : Challenge41 --> Find occurrence of the given number | p:112 | t - 00.14.00*
 
-###
+### *5.42 : Challenge42 --> Find Max and Min element in an Array | p:112 | t - 00.21.00*
 
-###
+### *5.43 : Challenge43 --> Checking the given array sorted or not | p:112 | t - 00.31.00*
 
-###
+### *5.44 : Challenge44 --> Deleting a specific element and return new array | p:112 | t - 00.40.00*
 
-###
+### *5.45 : Challenge45 --> Reversing an Array | p:112 | t - 00.52.00*
 
-###
+### *5.46 : Challenge46 --> Check the is Palindrome or not | p:112 | t - 00.59.00*
 
-###
+### *5.47 : Challenge47 --> Merge two sorted array | p:112 | t - 01.06.00*
 
-###
-
-###
-
-###
-
-###
-
-###
-
-###
-
-###
-
-###
-
-###
-
-###
-
-###
-
-###
-
-###
-
-###
-
-###
-
-###
-
-###
-
-###
-
-###
-
-
-
-
-
-
-
+<hr>
