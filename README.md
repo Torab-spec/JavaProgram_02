@@ -16,6 +16,12 @@
 
 <hr>
 
+# LECTURES
+
+<hr>
+
+<hr>
+
 ## 1 : CHAPTER01 --> INTRODUCTION TO JAVA
 
 <hr>
@@ -152,6 +158,12 @@
 
 <hr>
 
+<hr>
+
+# Part - 1
+
+<hr>
+
 ## 2 : CHAPTER02 --> JAVA BASICS CHALLENGES
 
 <hr>
@@ -213,7 +225,7 @@
 
 ### *4.21 : Challenge21 -->  Shows bitwise AND of two numbers | p:91*
 
-### *4.22 : Challenge22 -->  Shows bitwise OR of two numbers |  p:91*
+### *4.22 : Challenge22 -->  Shows bitwise OR of two numbers | p:91*
 
 ### *4.23 : Challenge23 -->  Shows bitwise XOR of two numbers| p:91*
 
