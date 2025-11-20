@@ -223,10 +223,16 @@
 <hr>
 
 ### 40 : *Challenge40 --> Find sum and average of an array element | p:112 | t - 00.00.00*
+
 ### 41 : *Challenge41 --> Find sum and average of an array element | p:112 | t - 00.14.00*
+
 ### 41 : *Challenge41 --> Find sum and average of an array element | p:112 | t - 00.14.00*
 
 ### 42 : *Challenge42 --> Find Max and Min element in an Array | p:112 | t - 00.21.00*
+
+### 43 : *Challenge43 --> Checking the given array sorted or not | p:112 | t - 00.21.00*
+
+### 44 : *Challenge44 --> Deleting a specific element and return new array | p:112 | t - 00.21.00*
 
 ###
 
