@@ -1,5 +1,5 @@
 public class Ch05Lec07 {
-    // 2d Array
+    // lec45 -- >2d Array
     public static void main(String[] args) {
         int[][] arr1 = new int[2][3];
         arr1[0][0] = 1;

@@ -149,8 +149,41 @@
 # Part - 2
 
 <hr>
+<hr>
 
-#
+## 6 : CHAPTER06 --> CLASS AND OBJECTS | p:118
+
+<hr>
+
+### 6.1 : Ch06Lec01 --> Process v/s Object oriented | p:118
+
+### 6.2 : Ch06Lec02 --> Instance variable and methods | p:120
+
+### 6.3 : Ch06Lec03 --> Declaring Objects | p:121
+
+### 6.4 : Ch06Lec04 --> Using objects | p:124
+
+### 6.5 : Ch06Lec05 --> Class vs Object | p:125
+
+### 6.6 : Ch06Lec06 --> This Keyword | p:128
+
+### 6.7 : Ch06Lec07 --> Static Keyword | p:129
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
+
+###
 
 <hr>
 
@@ -277,6 +310,12 @@
 
 <hr>
 
+<hr>
+
+## 5 : CHAPTER05 --> WHILE LOOPS , METHODS , ARRAYS CHALLENGES | p:104
+
+<hr>
+
 ### *5.40 : Challenge40 --> Find sum and average of an array element | p:112 | t - 00.00.00*
 
 ### *5.41 : Challenge41 --> Find occurrence of the given number | p:112 | t - 00.14.00*
@@ -292,5 +331,11 @@
 ### *5.46 : Challenge46 --> Check the is Palindrome or not | p:112 | t - 00.59.00*
 
 ### *5.47 : Challenge47 --> Merge two sorted array | p:112 | t - 01.06.00*
+
+### *5.48 : Challenge48 --> Search in 2D array | p:112 | t - 01.21.00*
+
+### *5.49 : Challenge49 --> Do sum and avg. or 2D array element| p:112 | t - 01.31.00*
+
+### *5.50 : Challenge50 --> Find the sum of two Diagonal element | p:112 | t - 01.40.00*
 
 <hr>
