@@ -10,7 +10,7 @@
 
 <hr>
 
-# Part - 1
+## Part - 1
 
 <hr>
 
@@ -146,7 +146,7 @@
 
 <hr>
 
-# Part - 2
+## Part - 2
 
 <hr>
 <hr>
@@ -155,37 +155,123 @@
 
 <hr>
 
-### 6.1 : Ch06Lec01 --> Process v/s Object oriented | p:118
+### 6.01 : Ch06Lec01 --> Process v/s Object oriented | p:118
 
-### 6.2 : Ch06Lec02 --> Instance variable and methods | p:120
+### 6.02 : Ch06Lec02 --> Instance variable and methods | p:120
 
-### 6.3 : Ch06Lec03 --> Declaring Objects | p:121
+### 6.03 : Ch06Lec03 --> Declaring Objects | p:121
 
-### 6.4 : Ch06Lec04 --> Using objects | p:124
+### 6.04 : Ch06Lec04 --> Using objects | p:124
 
-### 6.5 : Ch06Lec05 --> Class vs Object | p:125
+### 6.05 : Ch06Lec05 --> Class vs Object | p:125
 
-### 6.6 : Ch06Lec06 --> This Keyword | p:128
+### 6.06 : Ch06Lec06 --> This Keyword | p:128
 
-### 6.7 : Ch06Lec07 --> Static Keyword | p:129
+### 6.07 : Ch06Lec07 --> Static Keyword | p:129
 
-###
+### 6.08 : Ch06Lec08 --> Constructors | p:130
 
-###
+### 6.09 : Ch06Lec09 --> Code Blocks | p:133
 
-###
+### 6.10 : Ch06Lec10 --> Stack v/s Heap memory | p:135
 
-###
+### 6.11 : Ch06Lec11 --> Primitive v/s reference type | p:138
 
-###
+### 6.12 : Ch06Lec12 --> Variable Scope | p:140
 
-###
-
-###
-
-###
+### 6.13 : Ch06Lec13 --> Garbage Collection and finalize | p:142
 
 <hr>
+
+## 7 : CHAPTER07 --> CONTROL STATEMENTS , MATH AND STRING | p:149
+
+<hr>
+
+### 7.01 : Ch07Lec01 --> Ternary operator | p:150
+
+### 7.02 : Ch07Lec02 --> Switch Statement | p:151
+
+### 7.03 : Ch07Lec03 --> Do while loop | p:154
+
+### 7.04 : Ch07Lec04 --> For loop | p:155
+
+### 7.05 : Ch07Lec05 --> For Each loop | p:156
+
+### 7.06 : Ch07Lec06 --> Using Break and continue | p:157
+
+### 7.07 : Ch07Lec07 --> Recursion | p:158
+
+### 7.08 : Ch07Lec08 --> Random number & math class | p:160
+
+### 7.09 : Ch07Lec09 --> Don't learn syntax | p:161
+
+### 7.10 : Ch07Lec10 --> toString Method | p:162
+
+### 7.11 : Ch07Lec11 --> string class | p:163
+
+### 7.12 : Ch07Lec12 --> stringBuffer and stringBuilder | p:168
+
+### 7.13 : Ch07Lec13 --> Final keyword | p:169
+
+<hr>
+
+## 8: CHAPTER08 --> Encapsulation & | p:175
+
+<hr>
+
+### 8.01 : Ch08Lec01 --> Intro to OOPS Principle | p:176
+
+### 8.02 : Ch08Lec02 --> What is encapsulation | p:177
+
+### 8.03 : Ch08Lec03 --> Import & Package | p:179
+
+### 8.04 : Ch08Lec04 --> Access and Modifier | p:180
+
+### 8.05 : Ch08Lec05 --> Getter & Setter | p:182
+
+### 8.06 : Ch08Lec06 --> What is Inheritance | p:184
+
+### 8.07 : Ch08Lec07 --> Types of Inheritance | p:186
+
+### 8.08 : Ch08Lec08 --> Object class | p:187
+
+### 8.09 : Ch08Lec09 --> Encapsulation & HashCode | p:188
+
+### 8.10 : Ch08Lec10 --> Nested and InnerClass | p:189
+
+### 8.10 : Ch08Lec10 --> Nested and InnerClass | p:189
+
+<hr>
+
+## 9 : CHAPTER09 --> ABSTRACTION & POLYMORPHISM | p:195
+
+<hr> 
+
+### 9.01 : Ch09Lec01 --> What is Abstraction | p:196
+
+### 9.02 : Ch09Lec02 --> Abstracted keyword | p:198
+
+### 9.03 : Ch09Lec03 --> Interface | p:199
+
+### 9.04 : Ch09Lec04 --> What is Polymorphism | p:201
+
+### 9.05 : Ch09Lec05 --> References and Object | p:203
+
+### 9.06 : Ch09Lec06 --> Method / Constructor Overloading | p:204
+
+### 9.07 : Ch09Lec07 --> Super Keyword | p:205
+
+### 9.08 : Ch09Lec08 --> Method / Constructor Overriding | p:206
+
+### 9.09 : Ch09Lec09 --> Final keyword Revisited | p:208
+
+### 9.10 : Ch09Lec10 --> Pass by value & Pass by reference | p:209
+
+# ----------------------------------------------------------------------------
+
+# ----------------------------------------------------------------------------
+
+# ---------------------------------------------------------------------------
 
 # *CHALLENGES*
 
@@ -193,7 +279,7 @@
 
 <hr>
 
-# Part - 1
+## Part - 1
 
 <hr>
 
@@ -339,3 +425,32 @@
 ### *5.50 : Challenge50 --> Find the sum of two Diagonal element | p:112 | t - 01.40.00*
 
 <hr>
+
+## 6 : CHAPTER06 --> CLASS & OBJECTS CHALLENGES | p:134
+
+<hr>
+
+### *6.51 : Challenge51 --> Create a book class for a Library system | t - *
+
+### *6.52 : Challenge52 --> Design a course class | t - *
+
+<hr>
+
+## 7 : CHAPTER07 --> CONTROL STATEMENTS , MATH AND STRING CHALLENGES | p:153
+
+<hr>
+
+### *7.53 : Challenge53 --> Create a program to find the minimum of two numbers. | t - *
+
+### *7.54 : Challenge54 --> Create a program to find if the given number is even or odd. | t - *
+
+### *7.55 : Challenge55 --> Create a program to calculate the absolute value of a given integer. | t - *
+
+### *7.56 : Challenge56 --> Create a program to Based on a student's score, categorize as"High", "Moderate", or "Low" using the ternary operator (e.g.,High for scores > 80, Moderate for 50-80, Low for < 50). | t - *
+
+### *7.57 : Challenge57 --> create a program to print the month of the year based on a number (1-12) input by the user| t - *
+
+### *7.58 : Challenge58 -->  Create a program to create a simple calculator that uses a switch statement to perform basic arithmetic operations like addition, subtraction, multiplication, and division.| t - *
+
+
+
