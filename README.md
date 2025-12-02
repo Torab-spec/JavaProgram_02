@@ -440,17 +440,17 @@
 
 <hr>
 
-### *7.53 : Challenge53 --> Create a program to find the minimum of two numbers. | t - *
+### *7.53 : Challenge53 --> Find the minimum of two numbers. | t - 4.59.00 *
 
-### *7.54 : Challenge54 --> Create a program to find if the given number is even or odd. | t - *
+### *7.54 : Challenge54 --> given number is even or odd. | t - 5.03.00 *
 
-### *7.55 : Challenge55 --> Create a program to calculate the absolute value of a given integer. | t - *
+### *7.55 : Challenge55 --> absolute value of a given integer. | t - 05.05.00 *
 
-### *7.56 : Challenge56 --> Create a program to Based on a student's score, categorize as"High", "Moderate", or "Low" using the ternary operator (e.g.,High for scores > 80, Moderate for 50-80, Low for < 50). | t - *
+### *7.56 : Challenge56 --> Student Score Categorization as High, Moderate, low | t - 05.08.00 *
 
-### *7.57 : Challenge57 --> create a program to print the month of the year based on a number (1-12) input by the user| t - *
+### *7.57 : Challenge57 -->  Print the month of the year| t - 05.12.30 *
 
-### *7.58 : Challenge58 -->  Create a program to create a simple calculator that uses a switch statement to perform basic arithmetic operations like addition, subtraction, multiplication, and division.| t - *
+### *7.58 : Challenge58 --> Create a simple calculator using Switch | t - 05.20.00 *
 
 
 
