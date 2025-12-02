@@ -430,9 +430,9 @@
 
 <hr>
 
-### *6.51 : Challenge51 --> Create a book class for a Library system | t - *
+### *6.51 : Challenge51 --> Create a book class for a Library system | t - 3.28.28*
 
-### *6.52 : Challenge52 --> Design a course class | t - *
+### *6.52 : Challenge52 --> Design a course class | t - 3.42.00 *
 
 <hr>
 

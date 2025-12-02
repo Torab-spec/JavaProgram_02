@@ -9,7 +9,7 @@ public class Ch06Lec02 {
 class Car {
     int wheel;
     String color;
-    float maxSpeed;  // These are instance varibale
+    float maxSpeed;  // These are instance variable
     float currentFuelInLitter;
     int numberOfSeats;
 
