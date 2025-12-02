@@ -440,17 +440,17 @@
 
 <hr>
 
-### *7.53 : Challenge53 --> Find the minimum of two numbers. | t - 4.59.00 *
+### *7.53 : Challenge53 --> Find the minimum of two numbers. | t - 4.59.00*
 
-### *7.54 : Challenge54 --> given number is even or odd. | t - 5.03.00 *
+### *7.54 : Challenge54 --> given number is even or odd. | t - 5.03.00*
 
-### *7.55 : Challenge55 --> absolute value of a given integer. | t - 05.05.00 *
+### *7.55 : Challenge55 --> absolute value of a given integer. | t - 05.05.00*
 
-### *7.56 : Challenge56 --> Student Score Categorization as High, Moderate, low | t - 05.08.00 *
+### *7.56 : Challenge56 --> Student Score Categorization as High, Moderate, low | t - 05.08.00*
 
-### *7.57 : Challenge57 -->  Print the month of the year| t - 05.12.30 *
+### *7.57 : Challenge57 -->  Print the month of the year| t - 05.12.30*
 
-### *7.58 : Challenge58 --> Create a simple calculator using Switch | t - 05.20.00 *
+### *7.58 : Challenge58 --> Create a simple calculator using Switch | t - 05.20.00*
 
 
 
