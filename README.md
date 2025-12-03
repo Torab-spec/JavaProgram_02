@@ -453,4 +453,24 @@
 ### *7.58 : Challenge58 --> Create a simple calculator using Switch | t - 05.20.00*
 
 
+### *7.59 : Challenge59 --> using do-while to find password checker | t - 05.20.00*
 
+### *7.60 : Challenge60 --> Implement a number guessing game. | t - 05.20.00*
+
+### *7.61 : Challenge61 --> Using for loop multiplication table for a number. | t - 05.20.00*
+
+### *7.62 : Challenge62 --> Using for to display if a number is prime or not | t - 05.20.00*
+
+### *7.63 : Challenge63 --> Find the maximum value in an integer array. | t - 05.20.00*
+
+### *7.64 : Challenge64 --> Occurrences of a specific element in an array | t - 05.20.00*
+
+### *7.65 : Challenge65 --> Read inputs from the user | t - 05.20.00*
+
+### *7.66 : Challenge66 --> Sum all positive numbers | t - 05.20.00*
+
+### *7.67 : Challenge67 --> Print only even numbers | t - 05.20.00*
+
+### *7.68 : Challenge68 --> Fibonacci series using Recursion | t - 05.20.00*
+
+### *7.69 : Challenge69 --> Check palindrome using recursion| t - 05.20.00*
