@@ -440,6 +440,8 @@
 
 <hr>
 
+### 1st Challenge | page 153
+
 ### *7.53 : Challenge53 --> Find the minimum of two numbers. | t - 4.59.00*
 
 ### *7.54 : Challenge54 --> given number is even or odd. | t - 5.03.00*
@@ -452,24 +454,25 @@
 
 ### *7.58 : Challenge58 --> Create a simple calculator using Switch | t - 05.20.00*
 
+### 2nd Challenge | P : 159
 
-### *7.59 : Challenge59 --> using do-while to find password checker | t - 05.20.00*
+### *7.59 : Challenge59 --> Using do-while to find password checker | t - 06.13.00*
 
-### *7.60 : Challenge60 --> Implement a number guessing game. | t - 05.20.00*
+### *7.60 : Challenge60 --> Implement a number guessing game. | t - 06.17.30 | p 159*
 
-### *7.61 : Challenge61 --> Using for loop multiplication table for a number. | t - 05.20.00*
+### *7.61 : Challenge61 --> Using for loop multiplication table for a number. | t 06.22.00 -*
 
-### *7.62 : Challenge62 --> Using for to display if a number is prime or not | t - 05.20.00*
+### *7.62 : Challenge62 --> Using for to display if a number is prime or not | t - 06.27.00*
 
-### *7.63 : Challenge63 --> Find the maximum value in an integer array. | t - 05.20.00*
+### *7.63 : Challenge63 --> Find the maximum value in an integer array. | t -06.30.00*
 
-### *7.64 : Challenge64 --> Occurrences of a specific element in an array | t - 05.20.00*
+### *7.64 : Challenge64 --> Occurrences of a specific element in an array | t -06.36.00*
 
-### *7.65 : Challenge65 --> Read inputs from the user | t - 05.20.00*
+### *7.65 : Challenge65 --> Read inputs from the user | t -06.39.00*
 
-### *7.66 : Challenge66 --> Sum all positive numbers | t - 05.20.00*
+### *7.66 : Challenge66 --> Sum all positive numbers | t -06.45.00*
 
-### *7.67 : Challenge67 --> Print only even numbers | t - 05.20.00*
+### *7.67 : Challenge67 --> Print only even numbers | t -  6.49.00*
 
 ### *7.68 : Challenge68 --> Fibonacci series using Recursion | t - 05.20.00*
 
