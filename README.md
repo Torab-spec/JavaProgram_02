@@ -215,7 +215,7 @@
 
 <hr>
 
-## 8: CHAPTER08 --> Encapsulation & | p:175
+## 8: CHAPTER08 --> ENCAPSULATION & INHERITANCE | p:175
 
 <hr>
 
@@ -266,6 +266,114 @@
 ### 9.09 : Ch09Lec09 --> Final keyword Revisited | p:208
 
 ### 9.10 : Ch09Lec10 --> Pass by value & Pass by reference | p:209
+
+<hr>
+
+## 10 : CHAPTER010 --> EXCEPTION & FILE HANDLING | p:216
+
+<hr>
+
+### 10.01 : Ch10Lec01 --> What is an Exception | p:217
+
+### 10.02 : Ch10Lec02 --> Try catch| p:218
+
+### 10.03 : Ch10Lec03 --> Types of Exception | p:219
+
+### 10.04 : Ch10Lec04 --> Throw and Throws | p: 220
+
+### 10.05 : Ch10Lec05 --> Finally Block | p:224
+
+### 10.06 : Ch10Lec06 --> Custom Exception | p:225
+
+### 10.07 : Ch10Lec07 --> FileWriter Class | p:227
+
+### 10.08 : Ch10Lec08 --> FileReader Class | p:229
+
+<hr>
+
+## 11 : CHAPTER011 --> COLLECTION & GENERICS | p:235
+
+<hr>
+
+### 11.01 : Ch11Lec01 --> Variable Arguments | p:236
+
+### 11.02 : Ch11Lec02 --> Wrapper Classes | p: 237
+
+### 11.03 : Ch11Lec03 --> Autoboxing | p:238
+
+### 11.04 : Ch11Lec04 --> Collection Library | p: 239
+
+### 11.05 : Ch11Lec05 --> List Interface | p: 240
+
+### 11.06 : Ch11Lec06 --> Queue Interface | p:242
+
+### 11.07 : Ch11Lec07 --> Set Interface | p:244
+
+### 11.08 : Ch11Lec08 --> Collection Collection | p:246
+
+### 11.09 : Ch11Lec09 --> Map Interface | p:248
+
+### 11.10 : Ch11Lec10 --> Enums | p:250
+
+### 11.11 : Ch11Lec11 --> Generics & Diamond Operators| p:251
+
+<hr>
+
+## 12 : CHAPTER012 --> MULTI THREADING & EXECUTOR SERVICE| p : 257
+
+<hr>
+
+### 12.01 : Ch12Lec01 --> | p:
+
+### 12.02 : Ch12Lec02 --> | p:
+
+### 12.03 : Ch12Lec03 --> | p:
+
+### 12.04 : Ch12Lec04 --> | p:
+
+### 12.05 : Ch12Lec05 --> | p:
+
+### 12.06 : Ch12Lec06 --> | p:
+
+### 12.07 : Ch12Lec07 --> | p:
+
+### 12.08 : Ch12Lec08 --> | p:
+
+### 12.09 : Ch12Lec09 --> | p:
+
+### 12.10 : Ch12Lec10 --> | p:
+
+### 12.11 : Ch12Lec11 --> | p:
+
+<hr>
+
+## 13 : CHAPTER013 --> FUNCTIONAL PROGRAMING | p : 278
+
+<hr>
+
+### 13.01 : Ch13LLec01 --> | p:
+
+### 13.02 : Ch13Lec02 --> | p:
+
+### 13.03 : Ch13Lec03 --> | p:
+
+### 13.04 : Ch13Lec04 --> | p:
+
+### 13.05 : Ch13Lec05 --> | p:
+
+### 13.06 : Ch13Lec06 --> | p:
+
+### 13.07 : Ch13Lec07 --> | p:
+
+### 13.08 : Ch13Lec08 --> | p:
+
+### 13.09 : Ch13Lec09 --> | p:
+
+### 13.10 : Ch13Lec10 --> | p:
+
+### 13.11 : Ch13Lec11 --> | p:
+
+<hr>
 
 # ----------------------------------------------------------------------------
 
@@ -440,7 +548,7 @@
 
 <hr>
 
-### 1st Challenge | page 153
+### **1st Time Challenge | page 153**
 
 ### *7.53 : Challenge53 --> Find the minimum of two numbers. | t - 4.59.00*
 
@@ -454,7 +562,7 @@
 
 ### *7.58 : Challenge58 --> Create a simple calculator using Switch | t - 05.20.00*
 
-### 2nd Challenge | P : 159
+### **2nd Time Challenge | P : 159**
 
 ### *7.59 : Challenge59 --> Using do-while to find password checker | t - 06.13.00*
 
@@ -472,8 +580,160 @@
 
 ### *7.66 : Challenge66 --> Sum all positive numbers | t -06.45.00*
 
-### *7.67 : Challenge67 --> Print only even numbers | t -  6.49.00*
+### *7.67 : Challenge67 --> Print only even numbers | t - 6.49.00*
 
 ### *7.68 : Challenge68 --> Fibonacci series using Recursion | t - 05.20.00*
 
 ### *7.69 : Challenge69 --> Check palindrome using recursion| t - 05.20.00*
+
+### **3rd Time Challenge | P : 170**
+
+### *7.70 : Challenge70 --> Defining Student Class and use toString to print | t - *
+
+### *7.71 : Challenge71 --> Concatenate and Convert | t - *
+
+### *7.72 : Challenge72 --> Calculating Area & Circumference of Circle| t - *
+
+### *7.73 : Challenge73 --> Simulate a Die roller | t - *
+
+### *7.74 : Challenge74 --> Number Guessing Game| t - *
+
+### *7.75 : Challenge75 --> Concatenate Array of Words | t - *
+
+### *7.76 : Challenge76 --> Creating obj with Final fields & Constructor| t - *
+
+<hr>
+
+## 8: CHAPTER08 --> ENCAPSULATION & INHERITANCE CHALLENGES | p:175
+
+<hr>
+
+### **1st Time Challenges | P : 183**
+
+### *8.77 : Challenge77 --> | t - *
+
+### *8.78 : Challenge78 --> | t - *
+
+### *8.79 : Challenge79 --> | t - *
+
+### **2st Time Challenges | P : 190**
+
+### *8.80 : Challenge80 --> | t - *
+
+### *8.81 : Challenge81 --> | t - *
+
+### *8.82 : Challenge82 --> | t - *
+
+<hr>
+
+## 9 : CHAPTER09 --> ABSTRACTION & POLYMORPHISM | p:195
+
+<hr>
+
+### **1st time Challenge | P : 200**
+
+### *9.83 : Challenge83 --> | t - *
+
+### *9.84 : Challenge84 --> | t - *
+
+### **2nd time Challenge | P : 211**
+
+### *9.85 : Challenge85 --> | t - *
+
+### *9.86 : Challenge86 --> | t - *
+
+<hr>
+
+## 10 : CHAPTER010 --> EXCEPTION & FILE HANDLING CHALLENGES | p:216
+
+<hr>
+
+### **1st time Challenge | P : 226**
+
+### *10.87 : Challenge87 --> | t - *
+
+### **2nd time Challenge | P : 230**
+
+### *10.88 : Challenge88 --> | t - *
+
+<hr>
+
+## 11 : CHAPTER011 --> COLLECTION & GENERICS CHALLENGES | p:235
+
+### **1st time Challenge | P : 247**
+
+### *11.89 : Challenge89 --> | t - *
+
+### *11.90 : Challenge90 --> | t - *
+
+### *11.91 : Challenge91 --> | t - *
+
+### *11.92 : Challenge92 --> | t - *
+
+### *11.93 : Challenge93 --> | t - *
+
+### *11.94 : Challenge94 --> | t - *
+
+### *11.95 : Challenge95 --> | t - *
+
+### **2nd time Challenge | P : 252**
+
+### *11.96 : Challenge96 --> | t - *
+
+### *11.97 : Challenge97 --> | t - *
+
+### *11.98 : Challenge98 --> | t - *
+
+<hr>
+
+## 12 : CHAPTER012 --> MULTI THREADING & EXECUTOR SERVICE CHALLENGES | p : 257
+
+### **1st time Challenge | P : 268**
+
+### *12.99 : Challenge99 --> | t - *
+
+### *12.100 : Challenge100 --> | t - *
+
+### *12.101 : Challenge101 --> | t - *
+
+### *12.102 : Challenge102 --> | t - *
+
+### **2nd time Challenge | P : 273**
+
+### *12.103 : Challenge103 --> | t - *
+
+### *12.104 : Challenge104 --> | t - *
+
+### *12.105 : Challenge105 --> | t - *
+
+<hr>
+
+## 13 : CHAPTER013 --> FUNCTIONAL PROGRAMING CHALLENGES | p : 278
+
+### **1st Time Challenges | P : 285
+
+### *13.106 : Challenge106 --> | t - *
+
+### *13.107 : Challenge107 --> | t - *
+
+### *13.108 : Challenge108 --> | t - *
+
+### *13.109 : Challenge109 --> | t - *
+
+### **2nd Time Challenges | P : 292
+
+### *13.110 : Challenge110 --> | t - *
+
+### *13.111 : Challenge111 --> | t - *
+
+### *13.112 : Challenge112 --> | t - *
+
+### **3rd Time Challenges | P : 297
+
+### *13.113 : Challenge113 --> | t - *
+
+### *13.114 : Challenge114 --> | t - *
+
+### *13.115 : Challenge115 --> | t - *
+
+<hr>
