@@ -1,9 +1,7 @@
-import java.util.Scanner;
-
 public class Ch07Lec10 {
     //toString method
     public static void main(String[] args) {
-        Car4 car4 = new Car4(4, 4, 120, "Swift", "SW982", "Maruti");
+        Car5 car4 = new Car5(4, 4, 120, "Swift", "SW982", "Maruti");
 
         System.out.println(car4.toString());
     }
@@ -29,7 +27,7 @@ class Car4 {
 
     @Override
     public String toString() {
-        return "Car4{" +
+        return "Car5{" +
                 "noOfWheel=" + noOfWheel + ", noOfDoors=" + noOfDoors +
                 ", maxSpeed=" + maxSpeed +
                 ", name='" + name + '\'' +

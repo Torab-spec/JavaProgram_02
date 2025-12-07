@@ -588,7 +588,7 @@
 
 ### **3rd Time Challenge | P : 170**
 
-### *7.70 : Challenge70 --> Defining Student Class and use toString to print | t - *
+### *7.70 : Challenge70 --> Defining Student Class and use toString to print | t - 08.10.00*
 
 ### *7.71 : Challenge71 --> Concatenate and Convert | t - *
 
