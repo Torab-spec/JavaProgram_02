@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Challenge60 {
-    // 60 -> Number guessing game
+    // Ch60 -> Number guessing game
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int randomNumber = randomNumber();

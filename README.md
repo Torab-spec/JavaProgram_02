@@ -588,19 +588,19 @@
 
 ### **3rd Time Challenge | P : 170**
 
-### *7.70 : Challenge70 --> Defining Student Class and use toString to print | t - 08.10.00*
+### *7.70 : Challenge70 --> Defining Student Class and use toString to print | p - 170 | t - 08.10.00*
 
-### *7.71 : Challenge71 --> Concatenate and Convert | t - *
+### *7.71 : Challenge71 --> Concatenate and Convert | t - 8.20.00  | p - 170* 
 
-### *7.72 : Challenge72 --> Calculating Area & Circumference of Circle| t - *
+### *7.72 : Challenge72 --> Calculating Area & Circumference of Circle| T - 8.22.00 | P - 170*
 
-### *7.73 : Challenge73 --> Simulate a Die roller | t - *
+### *7.73 : Challenge73 --> Simulate a Die roller | P - 170 | T - 8.30.00*
 
-### *7.74 : Challenge74 --> Number Guessing Game| t - *
+### *7.74 : Challenge74 --> Number Guessing Game| P - 170 | T - 8.34.30*
 
-### *7.75 : Challenge75 --> Concatenate Array of Words | t - *
+### *7.75 : Challenge75 --> Concatenate Array of Words | P - 170 | T - 8.45.00*
 
-### *7.76 : Challenge76 --> Creating obj with Final fields & Constructor| t - *
+### *7.76 : Challenge76 --> Creating obj with Final fields & Constructor| P - 170 | T - 08.49.00*
 
 <hr>
 
