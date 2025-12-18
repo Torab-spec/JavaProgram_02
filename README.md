@@ -10,7 +10,7 @@
 
 <hr>
 
-## Part - 1
+
 
 <hr>
 
@@ -19,6 +19,10 @@
 # LECTURES
 
 <hr>
+
+<hr>
+
+## Part - 1
 
 <hr>
 
@@ -219,15 +223,15 @@
 
 <hr>
 
-### 8.01 : Ch08Lec01 --> Intro to OOPS Principle | p:176
+### 8.01 : Ch08Lec01 --> Intro to OOPS Principle | p:176 | T - 8.56.00
 
-### 8.02 : Ch08Lec02 --> What is encapsulation | p:177
+### 8.02 : Ch08Lec02 --> What is encapsulation | p:177 | T - 09.03.30
 
-### 8.03 : Ch08Lec03 --> Import & Package | p:179
+### 8.03 : Ch08Lec03 --> Import & Package | p:179 | T - 09.08.00
 
-### 8.04 : Ch08Lec04 --> Access and Modifier | p:180
+### 8.04 : Ch08Lec04 --> Access and Modifier | p:180 | T - 09.24.30
 
-### 8.05 : Ch08Lec05 --> Getter & Setter | p:182
+### 8.05 : Ch08Lec05 --> Getter & Setter | p:182 | T - 09.46.30
 
 ### 8.06 : Ch08Lec06 --> What is Inheritance | p:184
 
@@ -590,7 +594,7 @@
 
 ### *7.70 : Challenge70 --> Defining Student Class and use toString to print | p - 170 | t - 08.10.00*
 
-### *7.71 : Challenge71 --> Concatenate and Convert | t - 8.20.00  | p - 170* 
+### *7.71 : Challenge71 --> Concatenate and Convert | t - 8.20.00 | p - 170*
 
 ### *7.72 : Challenge72 --> Calculating Area & Circumference of Circle| T - 8.22.00 | P - 170*
 
@@ -608,13 +612,13 @@
 
 <hr>
 
-### **1st Time Challenges | P : 183**
+### **1st Time Challenges | P : 183 | T - 10.05.00**
 
-### *8.77 : Challenge77 --> | t - *
+### **8.77 : Challenge77 --> Creating Two package & there class | P - 183 | T - 10.05.30**
 
-### *8.78 : Challenge78 --> | t - *
+### **8.78 : Challenge78 --> Defining Bank Account class with private attributes | P -183 | T -**
 
-### *8.79 : Challenge79 --> | t - *
+### **8.79 : Challenge79 --> Defining class Employee with private attributes | P - 183 | T -**
 
 ### **2st Time Challenges | P : 190**
 
