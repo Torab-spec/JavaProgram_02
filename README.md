@@ -616,9 +616,9 @@
 
 ### **8.77 : Challenge77 --> Creating Two package & there class | P - 183 | T - 10.05.30**
 
-### **8.78 : Challenge78 --> Defining Bank Account class with private attributes | P -183 | T -**
+### **8.78 : Challenge78 --> Defining Bank Account class with private attributes | P -183 | T - 10.14.00**
 
-### **8.79 : Challenge79 --> Defining class Employee with private attributes | P - 183 | T -**
+### **8.79 : Challenge79 --> Defining class Employee with private attributes | P - 183 | T - 10.22.00**
 
 ### **2st Time Challenges | P : 190**
 

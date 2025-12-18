@@ -1,7 +1,7 @@
-package chapterEight.challeng77.utils;
+package chapterEight.challenge77.utils;
 
-import chapterEight.challeng77.gerometry.Circle;
-import chapterEight.challeng77.gerometry.Rect;
+import chapterEight.challenge77.gerometry.Circle;
+import chapterEight.challenge77.gerometry.Rect;
 
 public class Calculator {
     public static void main(String[] args) {

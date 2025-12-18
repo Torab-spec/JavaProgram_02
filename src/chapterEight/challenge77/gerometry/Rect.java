@@ -1,4 +1,4 @@
-package chapterEight.challeng77.gerometry;
+package chapterEight.challenge77.gerometry;
 
 public class Rect {
 
