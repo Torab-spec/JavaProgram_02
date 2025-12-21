@@ -239,11 +239,11 @@
 
 ### 8.08 : Ch08Lec08 --> Object class | p:187
 
-### 8.09 : Ch08Lec09 --> Encapsulation & HashCode | p:188
+### 8.09 : Ch08Lec09 --> Encapsulation & HashCode | p:188 | T - 11.03.00
 
 ### 8.10 : Ch08Lec10 --> Nested and InnerClass | p:189
 
-### 8.10 : Ch08Lec10 --> Nested and InnerClass | p:189
+### 8.10 : Ch08Lec10 --> Nested and InnerClass | p:189 | T - 11.21.00
 
 <hr>
 
@@ -622,11 +622,11 @@
 
 ### **2st Time Challenges | P : 190**
 
-### *8.80 : Challenge80 --> | t - *
+### **8.80 : Challenge80 --> Creating Base class LibraryItem and SubClass as name Book | T - 11.28.00 | P - 190**
 
-### *8.81 : Challenge81 --> | t - *
+### **8.81 : Challenge81 --> Create a Person class and override its equal method| T - | P - 190**
 
-### *8.82 : Challenge82 --> | t - *
+### **8.82 : Challenge82 --> Create a class ArrayOperations with a static nested class Statistics | T - | P - 190**
 
 <hr>
 
