@@ -1,5 +1,5 @@
 public class Ch08Lec10 {
-    // 8.10n -> Nested & InnerClass
+    // 8.10 -> Nested & InnerClass
     public static void main(String[] args) {
 
     }

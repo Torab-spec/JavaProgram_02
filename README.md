@@ -385,7 +385,7 @@
 
 # ---------------------------------------------------------------------------
 
-# *CHALLENGES*
+ # *CHALLENGES*
 
 <hr>
 
@@ -626,7 +626,7 @@
 
 ### **8.81 : Challenge81 --> Create a Person class and override its equal method| T - | P - 190**
 
-### **8.82 : Challenge82 --> Create a class ArrayOperations with a static nested class Statistics | T - | P - 190**
+### **8.82 : Challenge82 --> Create a class ArrayOperations with a static nested class Statistics | T -11.33.00 | P - 190**
 
 <hr>
 
