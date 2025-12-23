@@ -385,7 +385,7 @@
 
 # ---------------------------------------------------------------------------
 
- # *CHALLENGES*
+# *CHALLENGES*
 
 <hr>
 
@@ -626,7 +626,8 @@
 
 ### **8.81 : Challenge81 --> Create a Person class and override its equal method| T - | P - 190**
 
-### **8.82 : Challenge82 --> Create a class ArrayOperations with a static nested class Statistics | T -11.33.00 | P - 190**
+### **8.82 : Challenge82 --> Create a class ArrayOperations with a static nested class Statistics | T -11.33.00 | P -
+190**
 
 <hr>
 
@@ -636,9 +637,9 @@
 
 ### **1st time Challenge | P : 200**
 
-### *9.83 : Challenge83 --> | t - *
+### *9.83 : Challenge83 --> Creating an Abstract class with abstract method | t -00.23.30 | P - 200*
 
-### *9.84 : Challenge84 --> | t - *
+### *9.84 : Challenge84 --> Creating an Interface with abstract method | t - 00.33.00 *
 
 ### **2nd time Challenge | P : 211**
 
