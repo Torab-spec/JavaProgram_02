@@ -627,6 +627,7 @@
 ### **8.81 : Challenge81 --> Create a Person class and override its equal method| T - | P - 190**
 
 ### **8.82 : Challenge82 --> Create a class ArrayOperations with a static nested class Statistics | T -11.33.00 | P -
+
 190**
 
 <hr>
@@ -643,9 +644,10 @@
 
 ### **2nd time Challenge | P : 211**
 
-### *9.85 : Challenge85 --> | t - *
+### **9.85 : Challenge85 --> Create a Calculator Class with Overloaded method add()| t - 1.53 | P - 211*
 
-### *9.86 : Challenge86 --> | t - *
+### *9.86 : Challenge86 --> Create a base class Vehicle and a child class and override base class method| t - 01.58.00| P -
+211*
 
 <hr>
 
