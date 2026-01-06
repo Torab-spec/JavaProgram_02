@@ -327,27 +327,25 @@
 
 <hr>
 
-### 12.01 : Ch12Lec01 --> | p:
+### 12.01 : Ch12Lec01 --> What is a Thread | p : 258
 
-### 12.02 : Ch12Lec02 --> | p:
+### 12.02 : Ch12Lec02 --> Creating a Thread | p : 259
 
-### 12.03 : Ch12Lec03 --> | p:
+### 12.03 : Ch12Lec03 --> States of a Thread | p : 262
 
-### 12.04 : Ch12Lec04 --> | p:
+### 12.04 : Ch12Lec04 --> Thread Priority | p : 263
 
-### 12.05 : Ch12Lec05 --> | p:
+### 12.05 : Ch12Lec05 --> Join method | p : 264
 
-### 12.06 : Ch12Lec06 --> | p:
+### 12.06 : Ch12Lec06 --> Synchronize keyword | p : 265
 
-### 12.07 : Ch12Lec07 --> | p:
+### 12.07 : Ch12Lec07 --> Thread Communication | p : 266
 
-### 12.08 : Ch12Lec08 --> | p:
+### 12.08 : Ch12Lec08 --> Intro to Executor Service | p : 269
 
-### 12.09 : Ch12Lec09 --> | p:
+### 12.09 : Ch12Lec09 --> Multiple Threads with Executor | p : 271
 
-### 12.10 : Ch12Lec10 --> | p:
-
-### 12.11 : Ch12Lec11 --> | p:
+### 12.10 : Ch12Lec10 --> Returning Futures | p : 272
 
 <hr>
 
@@ -355,27 +353,27 @@
 
 <hr>
 
-### 13.01 : Ch13LLec01 --> | p:
+### 13.01 : Ch13Lec01 --> What is Functional Program | p :279
 
-### 13.02 : Ch13Lec02 --> | p:
+### 13.02 : Ch13Lec02 --> Lambda Expression | p : 280
 
-### 13.03 : Ch13Lec03 --> | p:
+### 13.03 : Ch13Lec03 --> What is a Stream | p : 282
 
-### 13.04 : Ch13Lec04 --> | p:
+### 13.04 : Ch13Lec04 --> Filtering & Reducing (Filter) | p : 283
 
-### 13.05 : Ch13Lec05 --> | p:
+### 13.05 : Ch13Lec05 --> Functional Interfaces | p : 286
 
-### 13.06 : Ch13Lec06 --> | p:
+### 13.06 : Ch13Lec06 --> Method References | p : 287
 
-### 13.07 : Ch13Lec07 --> | p:
+### 13.07 : Ch13Lec07 --> Functional & Structural Programing | p : 288
 
-### 13.08 : Ch13Lec08 --> | p:
+### 13.08 : Ch13Lec08 --> Optional Class | p : 290
 
-### 13.09 : Ch13Lec09 --> | p:
+### 13.09 : Ch13Lec09 --> Intermediate v/s Terminal Operation | p : 293
 
-### 13.10 : Ch13Lec10 --> | p:
+### 13.10 : Ch13Lec10 --> Max, Min, Collect to List | p : 295
 
-### 13.11 : Ch13Lec11 --> | p:
+### 13.11 : Ch13Lec11 --> Sort , Distinct, Map | p : 296
 
 <hr>
 
@@ -647,6 +645,7 @@
 ### **9.85 : Challenge85 --> Create a Calculator Class with Overloaded method add()| t - 1.53 | P - 211*
 
 ### *9.86 : Challenge86 --> Create a base class Vehicle and a child class and override base class method| t - 01.58.00| P -
+
 211*
 
 <hr>
