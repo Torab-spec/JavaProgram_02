@@ -624,9 +624,7 @@
 
 ### **8.81 : Challenge81 --> Create a Person class and override its equal method| T - | P - 190**
 
-### **8.82 : Challenge82 --> Create a class ArrayOperations with a static nested class Statistics | T -11.33.00 | P -
-
-190**
+### **8.82 : Challenge82 --> Create a class ArrayOperations with a static nested class Statistics | T -11.33.00 | P - 190**
 
 <hr>
 
@@ -656,11 +654,11 @@
 
 ### **1st time Challenge | P : 226**
 
-### *10.87 : Challenge87 --> | t - *
+### *10.87 : Challenge87 --> Write a Program and handle its exception  | T - 03.06.00, P - 226*
 
 ### **2nd time Challenge | P : 230**
 
-### *10.88 : Challenge88 --> | t - *
+### *10.88 : Challenge88 --> Write a program which can read a filename from the user and display is content , also handle the situation if the file does not exist| T - 03.34.00 , P - 230*
 
 <hr>
 
