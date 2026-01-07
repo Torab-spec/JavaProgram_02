@@ -9,7 +9,7 @@ public class KgCodingFileWriter {
 
        // Example of try-with-resource
         try (FileWriter writer = new FileWriter(fileName)) {
-            writer.write("This is best JAVA course");
+            writer.write("This is the best JAVA course");
             writer.flush();
             System.out.println("File written successfully");
         } catch (IOException exception) {
