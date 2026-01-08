@@ -301,25 +301,23 @@
 
 ### 11.01 : Ch11Lec01 --> Variable Arguments | p:236
 
-### 11.02 : Ch11Lec02 --> Wrapper Classes | p: 237
+### 11.02 : Ch11Lec02 --> Wrapper Classes & Autoboxing | p: 237
 
-### 11.03 : Ch11Lec03 --> Autoboxing | p:238
+### 11.03 : Ch11Lec03 --> Collection Library | p: 239
 
-### 11.04 : Ch11Lec04 --> Collection Library | p: 239
+### 11.04 : Ch11Lec04 --> List Interface | p: 240
 
-### 11.05 : Ch11Lec05 --> List Interface | p: 240
+### 11.05 : Ch11Lec05 --> Queue Interface | p:242
 
-### 11.06 : Ch11Lec06 --> Queue Interface | p:242
+### 11.06 : Ch11Lec06 --> Set Interface | p:244
 
-### 11.07 : Ch11Lec07 --> Set Interface | p:244
+### 11.07 : Ch11Lec07 --> Collection Collection | p:246
 
-### 11.08 : Ch11Lec08 --> Collection Collection | p:246
+### 11.08 : Ch11Lec08 --> Map Interface | p:248
 
-### 11.09 : Ch11Lec09 --> Map Interface | p:248
+### 11.09 : Ch11Lec09 --> Enums | p:250
 
-### 11.10 : Ch11Lec10 --> Enums | p:250
-
-### 11.11 : Ch11Lec11 --> Generics & Diamond Operators| p:251
+### 11.10 : Ch11Lec10 --> Generics & Diamond Operators| p:251
 
 <hr>
 
@@ -624,7 +622,8 @@
 
 ### **8.81 : Challenge81 --> Create a Person class and override its equal method| T - | P - 190**
 
-### **8.82 : Challenge82 --> Create a class ArrayOperations with a static nested class Statistics | T -11.33.00 | P - 190**
+### **8.82 : Challenge82 --> Create a class ArrayOperations with a static nested class Statistics | T -11.33.00 | P -
+190**
 
 <hr>
 
@@ -654,11 +653,12 @@
 
 ### **1st time Challenge | P : 226**
 
-### *10.87 : Challenge87 --> Write a Program and handle its exception  | T - 03.06.00, P - 226*
+### *10.87 : Challenge87 --> Write a Program and handle its exception | T - 03.06.00, P - 226*
 
 ### **2nd time Challenge | P : 230**
 
-### *10.88 : Challenge88 --> Write a program which can read a filename from the user and display is content , also handle the situation if the file does not exist| T - 03.34.00 , P - 230*
+### *10.88 : Challenge88 --> Write a program which can read a filename from the user and display is content , also
+handle the situation if the file does not exist| T - 03.34.00 , P - 230*
 
 <hr>
 
