@@ -311,7 +311,7 @@
 
 ### 11.06 : Ch11Lec06 --> Set Interface | p:244
 
-### 11.07 : Ch11Lec07 --> Collection Collection | p:246
+### 11.07 : Ch11Lec07 --> Collection Class | p:246
 
 ### 11.08 : Ch11Lec08 --> Map Interface | p:248
 
