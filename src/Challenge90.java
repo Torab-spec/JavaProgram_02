@@ -12,8 +12,6 @@ public class Challenge90 {
         Utility2Collection.print(list);
         sortInDescending(list);
         Utility2Collection.print(list);
-
-
     }
 
     public static void sortInDescending(List<String> list) {
