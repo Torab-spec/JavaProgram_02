@@ -1,18 +1,30 @@
+import chapterEleven.collection.Utility2Collection;
+
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
+
 public class Challenge90 {
-    //
+    //11.90 -> Custom comparator
     public static void main(String[] args) {
-        System.out.println(concatenate("Md"));
-        System.out.println(concatenate("Abu"));
-        System.out.println(concatenate("Torab"));
-        System.out.println(concatenate("Uddin"));
+        List<String> list = Arrays.asList("Bear", "Dear", "Ant", "Elephant");
+        Utility2Collection.print(list);
+        sortInDescending(list);
+        Utility2Collection.print(list);
+
+
     }
 
-    public static String concatenate(String... strs) {
-        StringBuilder sb = new StringBuilder();
-        for (String str : strs) {
-            sb.append(str).append(" ");
-        }
-        return sb.toString();
+    public static void sortInDescending(List<String> list) {
+//        Collections.sort(list);
+//        Collections.reverse(list);
+        Collections.sort(list, new Comparator<String>() {
+            @Override
+            public int compare(String o1, String o2) {
+                return 0;
+            }
+        });
     }
-
 }
+
