@@ -623,6 +623,7 @@
 ### **8.81 : Challenge81 --> Create a Person class and override its equal method| T - | P - 190**
 
 ### **8.82 : Challenge82 --> Create a class ArrayOperations with a static nested class Statistics | T -11.33.00 | P -
+
 190**
 
 <hr>
@@ -658,6 +659,7 @@
 ### **2nd time Challenge | P : 230**
 
 ### *10.88 : Challenge88 --> Write a program which can read a filename from the user and display is content , also
+
 handle the situation if the file does not exist| T - 03.34.00 , P - 230*
 
 <hr>
@@ -668,11 +670,16 @@ handle the situation if the file does not exist| T - 03.34.00 , P - 230*
 
 ### *11.89 : Challenge90 --> Concatenate String using varags | P - 247 , T - 4.58.00*
 
-### *11.90 : Challenge89 --> Sort a list of String Object in descending Order | P - 247 , T - 05.03.00*
-### *11.91 : Challenge89 --> | P - 247 , T - *
-### *11.92 : Challenge92 --> | P - 247 , T - *
+### *11.90 : Challenge90 --> Sort a list of String Object in descending Order | P - 247 , T - 05.03.00*
+
+### *11.91 : Challenge91 --> Count the frequency of a particular element in an ArrayList using Collections class | P - 247 , T - 05.13.00*
+
+### *11.92 : Challenge92 --> Swapping two element of an ArrayList | P - 247 , T - 5.16.00*
+
 ### *11.93 : Challenge93 --> | P - 247 , T - *
+
 ### *11.94 : Challenge94 --> | P - 247 , T - *
+
 ### *11.95 : Challenge95 --> | P - 247 , T - *
 
 ### **2nd time Challenge | P : 252**
