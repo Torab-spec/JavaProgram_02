@@ -681,7 +681,7 @@ handle the situation if the file does not exist| T - 03.34.00 , P - 230*
 
 ### *11.94 : Challenge94 --> Create a priorityQueue with custom Student class with name and grade attributes | P - 247 , T - 05.24.00*
 
-### *11.95 : Challenge95 --> Write a program that takes a string and returns the number of unique characters using a Set| P - 247 , T - *
+### *11.95 : Challenge95 --> Write a program that takes a string and returns the number of unique characters using a Set| P - 247 , T - 05.37.00*
 
 ### **2nd time Challenge | P : 252**
 
