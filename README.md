@@ -681,18 +681,20 @@ handle the situation if the file does not exist| T - 03.34.00 , P - 230*
 ### *11.93 : Challenge93 --> Reverse the element of a list | P - 247 , T - 05.20.00*
 
 ### *11.94 : Challenge94 --> Create a priorityQueue with custom Student class with name and grade attributes | P - 247 ,
+
 T - 05.24.00*
 
 ### *11.95 : Challenge95 --> Write a program that takes a string and returns the number of unique characters using a
+
 Set| P - 247 , T - 05.37.00*
 
 ### **2nd time Challenge | P : 252**
 
-### *11.96 : Challenge96 --> | P - 252 , T - *
+### *11.96 : Challenge96 --> Create Day enum and print out all the day from Day enum | P - 252 , T - 06.06.00*
 
-### *11.97 : Challenge97 --> | P - 252 , T - *
+### *11.97 : Challenge97 --> Enhance the Day enum | P - 252 , T - 06.11.00*
 
-### *11.98 : Challenge98 --> | P - 252 , T - *
+### *11.98 : Challenge98 --> Creating Map  | P - 252 , T - 06.15.00*
 
 <hr>
 
