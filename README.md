@@ -323,7 +323,7 @@
 
 ## 12 : CHAPTER012 --> MULTI THREADING & EXECUTOR SERVICE| p : 257
 
-<hr>
+<hr>  
 
 ### 12.01 : Ch12Lec01 --> What is a Thread | p : 258
 
