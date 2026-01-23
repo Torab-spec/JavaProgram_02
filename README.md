@@ -694,7 +694,7 @@ Set| P - 247 , T - 05.37.00*
 
 ### *11.97 : Challenge97 --> Enhance the Day enum | P - 252 , T - 06.11.00*
 
-### *11.98 : Challenge98 --> Creating Map  | P - 252 , T - 06.15.00*
+### *11.98 : Challenge98 --> Creating Map | P - 252 , T - 06.15.00*
 
 <hr>
 
@@ -702,13 +702,13 @@ Set| P - 247 , T - 05.37.00*
 
 ### **1st time Challenge | P : 268**
 
-### *12.99 : Challenge99 --> | t - *
+### *12.99 : Challenge99 --> Creating Two Thread | P - 268 T - 7.58.00*
 
-### *12.100 : Challenge100 --> | t - *
+### *12.100 : Challenge100 --> Working With Thread State | P - 268 T - 8.02.00*
 
-### *12.101 : Challenge101 --> | t - *
+### *12.101 : Challenge101 --> Playing with join method  | P - 268 T - 8.09.00*
 
-### *12.102 : Challenge102 --> | t - *
+### *12.102 : Challenge102 --> | P - 268 T -*
 
 ### **2nd time Challenge | P : 273**
 
