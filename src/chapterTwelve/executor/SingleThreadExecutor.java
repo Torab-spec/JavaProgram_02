@@ -1,7 +1,5 @@
 package chapterTwelve.executor;
-
 import chapterTwelve.runnableInterface.PrintTask;
-
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 

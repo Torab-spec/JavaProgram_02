@@ -706,17 +706,17 @@ Set| P - 247 , T - 05.37.00*
 
 ### *12.100 : Challenge100 --> Working With Thread State | P - 268 T - 8.02.00*
 
-### *12.101 : Challenge101 --> Playing with join method  | P - 268 T - 8.09.00*
+### *12.101 : Challenge101 --> Playing with join method | P - 268 T - 8.09.00*
 
 ### *12.102 : Challenge102 --> | P - 268 T -*
 
 ### **2nd time Challenge | P : 273**
 
-### *12.103 : Challenge103 --> | t - *
+### *12.103 : Challenge103 --> Create a Single thread Executor Service | P - 273 , T - 9.00.00*
 
-### *12.104 : Challenge104 --> | t - *
+### *12.104 : Challenge104 --> Create Multi Thread using Executor Service | P - 273 , T - 9.5.00*
 
-### *12.105 : Challenge105 --> | t - *
+### *12.105 : Challenge105 --> package chapterTwelve.challenge104;| P - 273 , T - 9.15.00*
 
 <hr>
 
