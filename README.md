@@ -724,28 +724,28 @@ Set| P - 247 , T - 05.37.00*
 
 ### **1st Time Challenges | P : 285
 
-### *13.106 : Challenge106 --> | t - *
+### *13.106 : Challenge106 --> Write a Lambda Expression which Multiply Two number| P - 285 , T -10.13.00*
 
-### *13.107 : Challenge107 --> | t - *
+### *13.107 : Challenge107 --> Convert a Array of String into a stream and print every string | P - 285 , T - 10.17.00*
 
-### *13.108 : Challenge108 --> | t - *
+### *13.108 : Challenge108 --> Perform filter operation and concatenation | P - 285 , T - 10.20.00*
 
-### *13.109 : Challenge109 --> | t - *
+### *13.109 : Challenge109 -->  Printing odd number using filter | P - 285 T - 10.25.00*
 
 ### **2nd Time Challenges | P : 292
 
-### *13.110 : Challenge110 --> | t - *
+### *13.110 : Challenge110 -->  Create a own F.I. and implement its abstract method that check the given number is prime or not | P - 292 , T -  10.48.00*
 
-### *13.111 : Challenge111 --> | t - *
+### *13.111 : Challenge111 --> Calculate Factorial one using Structural programing and another using Functional programing | P - 292 , T - 10.54.00*
 
-### *13.112 : Challenge112 --> | t - *
+### *13.112 : Challenge112 --> Write a function that accepts a string and returns an Optional<String>. | P - 292 , T - 11.00.00*
 
 ### **3rd Time Challenges | P : 297
 
-### *13.113 : Challenge113 --> | t - *
+### *13.113 : Challenge113 --> Create Stream of a array of integers, perform distinct operation and collect result in a new list | P - 297 , T - 11.12.00*
 
-### *13.114 : Challenge114 --> | t - *
+### *13.114 : Challenge114 -->  Create a Employee class with name & salary field, and perform sort; | P - 297 , T -11.14.00*
 
-### *13.115 : Challenge115 --> | t - *
+### *13.115 : Challenge115 --> Create a list of String number then convert each string into Integer then calculate square of each number| P - 297 , T - 11.20.00*
 
 <hr>
