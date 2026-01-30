@@ -421,7 +421,7 @@
 
 <hr>
 
-### *3.4 : Challenge04 --> *
+### *3.4 : Challenge04*
 
 ### *3.5 : Challenge05*
 
@@ -552,7 +552,7 @@
 
 ### *6.51 : Challenge51 --> Create a book class for a Library system | t - 3.28.28*
 
-### *6.52 : Challenge52 --> Design a course class | t - 3.42.00 *
+### *6.52 : Challenge52 --> Design a course class | t - 3.42.00*
 
 <hr>
 
@@ -578,7 +578,7 @@
 
 ### *7.59 : Challenge59 --> Using do-while to find password checker | t - 06.13.00*
 
-### *7.60 : Challenge60 --> Implement a number guessing game. | t - 06.17.30 | p 159*
+### *7.60 : Challenge60 --> Implement a number guessing game. | t - 06.17.30 | p - 159*
 
 ### *7.61 : Challenge61 --> Using for loop multiplication table for a number. | t 06.22.00 -*
 
@@ -620,21 +620,21 @@
 
 <hr>
 
-### **1st Time Challenges | P : 183 | T - 10.05.00**
+### *1st Time Challenges | P : 183 | T - 10.05.00*
 
-### **8.77 : Challenge77 --> Creating Two package & there class | P - 183 | T - 10.05.30**
+### *8.77 : Challenge77 --> Creating Two package & there class | P - 183 | T - 10.05.30*
 
-### **8.78 : Challenge78 --> Defining Bank Account class with private attributes | P -183 | T - 10.14.00**
+### *8.78 : Challenge78 --> Defining Bank Account class with private attributes | P -183 | T - 10.14.00*
 
-### **8.79 : Challenge79 --> Defining class Employee with private attributes | P - 183 | T - 10.22.00**
+### *8.79 : Challenge79 --> Defining class Employee with private attributes | P - 183 | T - 10.22.00*
 
-### **2st Time Challenges | P : 190**
+### *2st Time Challenges | P : 190*
 
-### **8.80 : Challenge80 --> Creating Base class LibraryItem and SubClass as name Book | T - 11.28.00 | P - 190**
+### *8.80 : Challenge80 --> Creating Base class LibraryItem and SubClass as name Book | T - 11.28.00 | P - 190*
 
-### **8.81 : Challenge81 --> Create a Person class and override its equal method| T - | P - 190**
+### *8.81 : Challenge81 --> Create a Person class and override its equal method| T - | P - 190*
 
-### **8.82 : Challenge82 --> Create a class ArrayOperations with a static nested class Statistics | T -11.33.00 | P -
+### **8.82 : Challenge82 --> Create a class ArrayOperations with a static nested class Statistics | T -11.33.00 | P - 190*
 
 190**
 
@@ -654,9 +654,7 @@
 
 ### **9.85 : Challenge85 --> Create a Calculator Class with Overloaded method add()| t - 1.53 | P - 211*
 
-### *9.86 : Challenge86 --> Create a base class Vehicle and a child class and override base class method| t - 01.58.00| P -
-
-211*
+### *9.86 : Challenge86 --> Create a base class Vehicle and a child class and override base class method| t - 01.58.00| P - 211*
 
 <hr>
 
@@ -670,9 +668,7 @@
 
 ### **2nd time Challenge | P : 230**
 
-### *10.88 : Challenge88 --> Write a program which can read a filename from the user and display is content , also
-
-handle the situation if the file does not exist| T - 03.34.00 , P - 230*
+### *10.88 : Challenge88 --> Write a program which can read a filename from the user and display is content , also handle the situation if the file does not exist| T - 03.34.00 , P - 230*
 
 <hr>
 
@@ -684,21 +680,15 @@ handle the situation if the file does not exist| T - 03.34.00 , P - 230*
 
 ### *11.90 : Challenge90 --> Sort a list of String Object in descending Order | P - 247 , T - 05.03.00*
 
-### *11.91 : Challenge91 --> Count the frequency of a particular element in an ArrayList using Collections class | P -
-
-247 , T - 05.13.00*
+### *11.91 : Challenge91 --> Count the frequency of a particular element in an ArrayList using Collections class | P - 247 , T - 05.13.00*
 
 ### *11.92 : Challenge92 --> Swapping two element of an ArrayList | P - 247 , T - 5.16.00*
 
 ### *11.93 : Challenge93 --> Reverse the element of a list | P - 247 , T - 05.20.00*
 
-### *11.94 : Challenge94 --> Create a priorityQueue with custom Student class with name and grade attributes | P - 247 ,
+### *11.94 : Challenge94 --> Create a priorityQueue with custom Student class with name and grade attributes | P - 247 , T - 05.24.00*
 
-T - 05.24.00*
-
-### *11.95 : Challenge95 --> Write a program that takes a string and returns the number of unique characters using a
-
-Set| P - 247 , T - 05.37.00*
+### *11.95 : Challenge95 --> Write a program that takes a string and returns the number of unique characters using a Set| P - 247 , T - 05.37.00*
 
 ### **2nd time Challenge | P : 252**
 
@@ -734,7 +724,7 @@ Set| P - 247 , T - 05.37.00*
 
 ## 13 : CHAPTER013 --> FUNCTIONAL PROGRAMING CHALLENGES | p : 278
 
-### **1st Time Challenges | P : 285
+### *1st Time Challenges | P : 285*
 
 ### *13.106 : Challenge106 --> Write a Lambda Expression which Multiply Two number| P - 285 , T -10.13.00*
 
@@ -744,27 +734,21 @@ Set| P - 247 , T - 05.37.00*
 
 ### *13.109 : Challenge109 -->  Printing odd number using filter | P - 285 T - 10.25.00*
 
-### **2nd Time Challenges | P : 292
+### **2nd Time Challenges | P : 292**
 
-### *13.110 : Challenge110 -->  Create a own F.I. and implement its abstract method that check the given number is prime
-or not | P - 292 , T - 10.48.00*
+### *13.110 : Challenge110 -->  Create a own F.I. and implement its abstract method that check the given number is prime or not | P - 292 , T - 10.48.00*
 
-### *13.111 : Challenge111 --> Calculate Factorial one using Structural programing and another using Functional
-programing | P - 292 , T - 10.54.00*
+### *13.111 : Challenge111 --> Calculate Factorial one using Structural programing and another using Functionalprograming | P - 292 , T - 10.54.00*
 
-### *13.112 : Challenge112 --> Write a function that accepts a string and returns an Optional<String>. | P - 292 , T -
-11.00.00*
+### *13.112 : Challenge112 --> Write a function that accepts a string and returns an Optional<String>. | P - 292 , T - 11.00.00*
 
 ### **3rd Time Challenges | P : 297
 
-### *13.113 : Challenge113 --> Create Stream of a array of integers, perform distinct operation and collect result in a
-new list | P - 297 , T - 11.12.00*
+### *13.113 : Challenge113 --> Create Stream of a array of integers, perform distinct operation and collect result in a new list | P - 297 , T - 11.12.00*
 
-### *13.114 : Challenge114 -->  Create a Employee class with name & salary field, and perform sort; | P - 297 , T
--11.14.00*
+### *13.114 : Challenge114 -->  Create a Employee class with name & salary field, and perform sort; | P - 297 , T-11.14.00*
 
-### *13.115 : Challenge115 --> Create a list of String number then convert each string into Integer then calculate
-square of each number| P - 297 , T - 11.20.00*
+### *13.115 : Challenge115 --> Create a list of String number then convert each string into Integer then calculate square of each number| P - 297 , T - 11.20.00*
 
 <hr>
 
