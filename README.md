@@ -6,7 +6,15 @@
 
 <hr>
 
-## Date : 01/11/2025
+# [Click here for PDF notes of Prasant sir](https://drive.google.com/file/d/1sF5RMqs0BdhE5FApQhhPDfgRkyjvDjpl/view?usp=sharing)
+
+#  
+
+<hr>
+
+<hr>
+
+## Starting Date : 01/11/2025
 
 <hr>
 
@@ -146,8 +154,6 @@
 
 ### 5.7 : Ch05Lec07 --> 2D Array | p:109
 
-## Date : 16/11/2025
-
 <hr>
 
 ## Part - 2
@@ -252,6 +258,12 @@
 <hr> 
 
 ### 9.01 : Ch09Lec01 --> What is Abstraction | p:196
+
+<hr>
+
+## Part - 3
+
+<hr>
 
 ### 9.02 : Ch09Lec02 --> Abstracted keyword | p:198
 
@@ -734,18 +746,26 @@ Set| P - 247 , T - 05.37.00*
 
 ### **2nd Time Challenges | P : 292
 
-### *13.110 : Challenge110 -->  Create a own F.I. and implement its abstract method that check the given number is prime or not | P - 292 , T -  10.48.00*
+### *13.110 : Challenge110 -->  Create a own F.I. and implement its abstract method that check the given number is prime
+or not | P - 292 , T - 10.48.00*
 
-### *13.111 : Challenge111 --> Calculate Factorial one using Structural programing and another using Functional programing | P - 292 , T - 10.54.00*
+### *13.111 : Challenge111 --> Calculate Factorial one using Structural programing and another using Functional
+programing | P - 292 , T - 10.54.00*
 
-### *13.112 : Challenge112 --> Write a function that accepts a string and returns an Optional<String>. | P - 292 , T - 11.00.00*
+### *13.112 : Challenge112 --> Write a function that accepts a string and returns an Optional<String>. | P - 292 , T -
+11.00.00*
 
 ### **3rd Time Challenges | P : 297
 
-### *13.113 : Challenge113 --> Create Stream of a array of integers, perform distinct operation and collect result in a new list | P - 297 , T - 11.12.00*
+### *13.113 : Challenge113 --> Create Stream of a array of integers, perform distinct operation and collect result in a
+new list | P - 297 , T - 11.12.00*
 
-### *13.114 : Challenge114 -->  Create a Employee class with name & salary field, and perform sort; | P - 297 , T -11.14.00*
+### *13.114 : Challenge114 -->  Create a Employee class with name & salary field, and perform sort; | P - 297 , T
+-11.14.00*
 
-### *13.115 : Challenge115 --> Create a list of String number then convert each string into Integer then calculate square of each number| P - 297 , T - 11.20.00*
+### *13.115 : Challenge115 --> Create a list of String number then convert each string into Integer then calculate
+square of each number| P - 297 , T - 11.20.00*
 
 <hr>
+
+## Ending date - 30.01.2026
